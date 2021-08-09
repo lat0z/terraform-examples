@@ -1,0 +1,3 @@
+prueba ${adjectives[0]} ${nouns[0]} ${numbers[0]} ${adjectives[1]} ${verbs[0]}s
+${adjectives[2]} ${nouns[2]}. ${nouns[3]} ${nouns[4]} ${nouns[5]} ${verbs[1]}s
+${nouns[6]}, ${adjectives[3]} ${nouns[7]} ${nouns[8]}s ${adjectives[4]} ${nouns[8]}
